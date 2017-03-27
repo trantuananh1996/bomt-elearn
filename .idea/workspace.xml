@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3815c1d3-18c5-4bd1-bbc3-8db07a3863b6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/mm.bundle.js" afterPath="$PROJECT_DIR$/build/mm.bundle.js" />
-    </list>
+    <list default="true" id="3815c1d3-18c5-4bd1-bbc3-8db07a3863b6" name="Default" comment="" />
     <ignored path="moodlemobile-phonegapbuild.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -165,15 +163,15 @@
       <workItem from="1490171528724" duration="7412000" />
       <workItem from="1490278266593" duration="7176000" />
       <workItem from="1490338197654" duration="9491000" />
-      <workItem from="1490623404442" duration="115000" />
+      <workItem from="1490623404442" duration="704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25718000" />
+    <option name="totallyTimeSpent" value="26307000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26096824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
