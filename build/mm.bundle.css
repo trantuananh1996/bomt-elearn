@@ -11223,12 +11223,12 @@ a.button .icon:before, a.button.icon:before, a.button.icon-left:before, a.button
  * App Branding
  */
 .mm-bglogo {
-    background-image: url('../img/moodle2.png');
+    background-color: white;
     /* Change this to add a bg image or change color */
     background-repeat: no-repeat;
     background-position: center center;
     width: 100%;
-    position: relative;
+    position: absolute;
     top: 0;
     bottom: 0;
 }
@@ -11240,7 +11240,7 @@ a.button .icon:before, a.button.icon:before, a.button.icon-left:before, a.button
 }
 
 .mm-logo {
-    background-image: url('../img/moodle2.png');
+    background-image: url('../img/moodle.png');
     /* Change logo here */
     background-repeat: no-repeat;
     background-position: center center;
@@ -11286,7 +11286,7 @@ em {
 
 .bar-content {
     border-color: transparent;
-    background-color: #253a79; /* Đây là cái màu chính của app*/
+    background-color: #005ca3; /* Đây là cái màu chính của app*/
     background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
     color: #fff;
 }
@@ -11297,7 +11297,7 @@ em {
 
 .bar-content .button {
     border-color: transparent;
-    background-color: #253a79;
+    background-color: #005ca3;
     color: #fff;
 }
 
@@ -11308,7 +11308,7 @@ em {
 
 .bar-content .button.active, .bar-content .button.activated {
     border-color: transparent;
-    background-color: #253a79;
+    background-color: #005ca3;
 }
 
 .bar-content .button.button-clear {
@@ -12915,7 +12915,7 @@ mm-course-mod-description .card .item, mm-course-mod-description .card .mm-grade
 
 .bar-side-menu {
     border-color: transparent;
-    background-color: #253a79;
+    background-color: #005ca3;
     background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
     color: #fff;
     height: 80px !important;
