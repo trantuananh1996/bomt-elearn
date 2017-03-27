@@ -52984,8 +52984,8 @@ angular.module('mm.addons.messageoutput_airnotifier')
 angular.module('mm.core')
 
     .constant('mmCoreConfigConstants', {
-            "app_id": "vn.omt.elearn.kta",
-            "appname": "KTA Elearn",
+            "app_id": "vn.omt.elearn.bomt",
+            "appname": "BOMT Elearn",
             "versioncode": "1",
             "versionname": "1.0.0",
             "cache_expiration_time": 300000,
@@ -52995,7 +52995,7 @@ angular.module('mm.core')
             "wsextservice": "local_mobile",
             "gcmpn": "411102123785",
             "customurlscheme": "moodlemobile",
-            "siteurl": "http://www.kta.elearn.vn",
+            "siteurl": "http://www.bomt.elearn.vn",
             "skipssoconfirmation": "false",
             "forcedefaultlanguage": "false",
             "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
